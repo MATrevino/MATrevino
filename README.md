@@ -6,6 +6,7 @@
 [![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino)](https://github.com/anuraghazra/github-readme-stats)
 
 * [![Rails]][Rails-url]
+* [![Rails]][Rails-url]
 * [![Ruby-on-Rails-CI]][Ruby-on-Rails-url]
 * [![MYSQL]][MYSQL-url]
 * [![PostgreSQL]][PostgreSQL-url]
@@ -17,8 +18,6 @@
 * [![Microsoft-office]][Microsoft-office-url]
 * [![GitHub]][GitHub-url]
 * [![Git]][Git-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 🌱 I’m currently learning ...
 * [![GraphQL]][GraphQL-url]
