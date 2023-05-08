@@ -14,6 +14,7 @@
 * [![Miro]][Miro-url]
 * [![JSON]][JSON-url]
 * [![Markdown]][Markdown-url]
+* ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 * [![Microsoft-office]][Microsoft-office-url]
 * [![GitHub]][GitHub-url]
 * [![Git]][Git-url]
