@@ -5,25 +5,25 @@
 
 [![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rails]][Rails-url]
-[![Ruby-on-Rails-CI]][Ruby-on-Rails-url]
-[![MYSQL]][MYSQL-url]
-[![PostgreSQL]][PostgreSQL-url]
-[![RSpec]][RSpec-url]
-[![Google-Sheets]][Google-Sheets-url]
-[![Miro]][Miro-url]
-[![JSON]][JSON-url]
-[![Markdown]][Markdown-url]
-[![Microsoft-office]][Microsoft-office-url]
-[![GitHub]][GitHub-url]
-[![Git]][Git-url]
+* [![Rails]][Rails-url]
+* [![Ruby-on-Rails-CI]][Ruby-on-Rails-url]
+* [![MYSQL]][MYSQL-url]
+* [![PostgreSQL]][PostgreSQL-url]
+* [![RSpec]][RSpec-url]
+* [![Google-Sheets]][Google-Sheets-url]
+* [![Miro]][Miro-url]
+* [![JSON]][JSON-url]
+* [![Markdown]][Markdown-url]
+* [![Microsoft-office]][Microsoft-office-url]
+* [![GitHub]][GitHub-url]
+* [![Git]][Git-url]
 
 
 🌱 I’m currently learning ...
-[![GraphQL]][GraphQL-url]
+* [![GraphQL]][GraphQL-url]
 
 🤔 I want to learn...
-[![AMAZON AWS]][AMAZON-AWS-url]
+* [![AMAZON AWS]][AMAZON-AWS-url]
 
 📫 How to reach me: 
 meredithtrevino3@gmail.com
