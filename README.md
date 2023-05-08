@@ -1,16 +1,29 @@
-### Hi there 👋
+### Well, hello there! 👋 
+😄 Pronouns: she/her
 
-<!--
-**MATrevino/MATrevino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About me: Former educator turned software engineer. I'm a current student at Turing School of Software and Design focusing on Back End Software Development, graduating in the next 6 weeks. I love puzzles, traveling, exploring new foods and cultures and all animals (especially dogs).
 
-Here are some ideas to get you started:
+[![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Rails]][Rails-url]
+[![Ruby-on-Rails-CI]][Ruby-on-Rails-url]
+[![MYSQL]][MYSQL-url]
+[![PostgreSQL]][PostgreSQL-url]
+[![RSpec]][RSpec-url]
+[![Google-Sheets]][Google-Sheets-url]
+[![Miro]][Miro-url]
+[![JSON]][JSON-url]
+[![Markdown]][Markdown-url]
+[![Microsoft-office]][Microsoft-office-url]
+[![GitHub]][GitHub-url]
+[![Git]][Git-url]
+
+
+🌱 I’m currently learning ...
+[![GraphQL]][GraphQL-url]
+
+🤔 I want to learn...
+[![AMAZON AWS]][AMAZON-AWS-url]
+
+📫 How to reach me: 
+meredithtrevino3@gmail.com
