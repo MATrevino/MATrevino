@@ -5,7 +5,8 @@
 
 [![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino)](https://github.com/anuraghazra/github-readme-stats)
 
-* [![Rails]][Rails-url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 * [![Rails]][Rails-url]
 * [![Ruby-on-Rails-CI]][Ruby-on-Rails-url]
 * [![MYSQL]][MYSQL-url]
@@ -24,6 +25,7 @@
 
 🤔 I want to learn...
 * [![AMAZON AWS]][AMAZON-AWS-url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 📫 How to reach me: 
 meredithtrevino3@gmail.com
