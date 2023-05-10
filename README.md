@@ -3,7 +3,7 @@
 
 ✨ About me: Former educator turned software engineer. I'm a current student at Turing School of Software and Design focusing on Back End Software Development, graduating in the next 6 weeks. I love puzzles, traveling, exploring new foods and cultures and all animals (especially dogs).
 
-[![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino)](https://github.com/anuraghazra/github-readme-stats)
+[![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=MATrevino&show_icons=true&theme=tokyonight)
 
 * ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 * ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
